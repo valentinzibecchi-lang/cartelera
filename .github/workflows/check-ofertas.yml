@@ -1,0 +1,43 @@
+name: Chequear cartelera ALE/Optativas
+
+on:
+  schedule:
+    # Cada 10 minutos. GitHub Actions no garantiza precisión exacta al minuto
+    # (puede demorarse unos minutos en horas pico), pero para este uso alcanza.
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {} # permite tirarlo a mano desde la pestaña "Actions" para probar
+
+# Necesario para que el job pueda commitear el archivo de estado de vuelta al repo
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Correr el bot
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_TO: ${{ secrets.GMAIL_TO }}
+          KEYWORDS: ${{ vars.KEYWORDS }}
+        run: python scraper.py
+
+      - name: Guardar estado (commit del archivo seen_ofertas.json)
+        run: |
+          git config user.name "cartelera-bot"
+          git config user.email "cartelera-bot@users.noreply.github.com"
+          git add seen_ofertas.json
+          git diff --staged --quiet || git commit -m "Actualizar estado de ofertas vistas [skip ci]"
+          git push
