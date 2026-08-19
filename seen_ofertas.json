@@ -1,1 +1,82 @@
-{}
+{
+  "AD175": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Apoyo a la actividad docente | Responsable(s)/Colaboradores",
+    "titulo": "Gestión en Curso Introductorio a la Vida Universitaria (CIVU 2027)"
+  },
+  "AD176": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Apoyo a la actividad docente | Responsable(s)/Colaboradores",
+    "titulo": "Matemática:Curso Introductorio a la Vida Universitaria CIVU 2027"
+  },
+  "AD177": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Apoyo a la actividad docente | Responsable(s)/Colaboradores",
+    "titulo": "Taller Manejo de Herramientas Informáticas - Excel"
+  },
+  "AD178": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Apoyo a la actividad docente | Responsable(s)/Colaboradores",
+    "titulo": "Apoyo a la actividad docente Matemática I"
+  },
+  "AD179": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Apoyo a la actividad docente | Responsable(s)/Colaboradores",
+    "titulo": "Apoyo a la actividad docente Matemática II"
+  },
+  "AD180": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Apoyo a la actividad docente | Responsable(s)/Colaboradores",
+    "titulo": "Auxiliar Alumno para las materias Taller de Habilidades I y Taller de Habilidades II"
+  },
+  "AE27": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Apoyo a la extensión | Responsable(s)/Colaboradores",
+    "titulo": "Tutores Pares  de Futuros Ingresantes - CIVU 2027"
+  },
+  "CO255": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Asistencia a congresos, jornadas, etc. | Responsable(s)/Colaboradores",
+    "titulo": "De la facultad al mundo profesional: experiencias reales para construir tu carrera"
+  },
+  "CO256": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Asistencia a congresos, jornadas, etc. | Responsable(s)/Colaboradores",
+    "titulo": "IA con pocos datos: cómo construir valor sin esperar al dataset perfecto"
+  },
+  "MO229": {
+    "detalle": "Matería Optativa | Carga horaria | 40 horas | Fecha, Lugar y Horario | Curso 2: jueves de 10 a 12hrs, aula 1 FCE. (10 cupos) | Curso 4: lunes de 15 a 17hrs, aula 6 FCE. (10 cupos)",
+    "titulo": "Taller de preparación de exámenes internacionales"
+  },
+  "MO230": {
+    "detalle": "Matería Optativa | Docente a cargo | Gisela Paula, Gonzalez | Carga horaria | 20 horas | Fecha, Lugar y Horario",
+    "titulo": "Economía de la Salud"
+  },
+  "MO231": {
+    "detalle": "Matería Optativa | Carga horaria | 20 horas | Fecha, Lugar y Horario | 21/08, 28/08, 04/09, 11/09, 18/09, 25/09, 02/10, 20/11 y 27/11 de 17 a 19hrs en el aula Cagliolo. | 16/10 clase asincrónica.",
+    "titulo": "Diversidad, Equidad e Inclusión en la Agenda del Triple Impacto"
+  },
+  "MO232": {
+    "detalle": "Matería Optativa | Carga horaria | 20 horas | Fecha, Lugar y Horario | Lunes: 28/09, 19/10, 26/10, 02/11, 09/11 y 16/11 de 17 a 19hrs en el aula Alonso. | Martes: 22/09, 13/10 de 17 a 19hrs en el aula 4 del pab. 4",
+    "titulo": "Sistemas de Gestión de la Calidad"
+  },
+  "MO233": {
+    "detalle": "Matería Optativa | Carga horaria | 20 horas | Fecha, Lugar y Horario | - | 25/08, 01/09, 08/09, 15/09, 22/09, 06/10, 13/10 de 13 a 15hrs en el aula 4 del pab. 4.",
+    "titulo": "Introducción a Data Science y Data Analytics"
+  },
+  "MO234": {
+    "detalle": "Matería Optativa | Carga horaria | 20 horas | Fecha, Lugar y Horario | - | 20/10, 27/10, 03/11, 10/11, 17/11, 24/11 y 01/12 de 13 a 15hrs en el aula 4 del pab. 4.",
+    "titulo": "Machine Learning para Empresas"
+  },
+  "MO235": {
+    "detalle": "Matería Optativa | Carga horaria | 40 horas | Fecha, Lugar y Horario | 20/08, 27/08, 03/09, 10/09, 17/09, 24/09, 01/10, 15/10, 22/10, 29/10, 05/11, 12/11 de 17 a 20hrs en el aula 3 del Pab. III. | Contador público",
+    "titulo": "Academia EconEmprende"
+  },
+  "MO236": {
+    "detalle": "Matería Optativa | Docente a cargo | Javier Pantaleon | Carga horaria | 20 horas | Fecha, Lugar y Horario",
+    "titulo": "Comercialización de Software en la Era de la IA"
+  },
+  "MO237": {
+    "detalle": "Matería Optativa | Carga horaria | 20 horas | Fecha, Lugar y Horario | 25/08, 27/08, 01/09, 03/09, 08/09, 10/09, 15/09, 17/09, 22/09, 24/09 de 15 a 17hrs en el aula 1 de la FCE. | Contador público",
+    "titulo": "Introducción a la Programación en R"
+  },
+  "MO238": {
+    "detalle": "Matería Optativa | Carga horaria | 40 horas | Fecha, Lugar y Horario | - 27/08, 03/09, 10/09, 17/09, 24,09, 01/10, 15/10 y 22/10, de 15 a 17hrs en el laboratorio FCE. | Contador público",
+    "titulo": "Uso de planillas de cálculos, internet e inteligencia artificial: aplicaciones en matemática financiera"
+  },
+  "TA232": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Taller de libre elección | Responsable(s)/Colaboradores",
+    "titulo": "Problemas Filosóficos"
+  }
+}
