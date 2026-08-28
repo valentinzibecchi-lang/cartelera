@@ -27,6 +27,10 @@
     "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Apoyo a la extensión | Responsable(s)/Colaboradores",
     "titulo": "Tutores Pares  de Futuros Ingresantes - CIVU 2027"
   },
+  "AE28": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Apoyo a la extensión | Responsable(s)/Colaboradores",
+    "titulo": "Experiencia en el Banco de Alimentos de Tandil"
+  },
   "CO255": {
     "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Asistencia a congresos, jornadas, etc. | Responsable(s)/Colaboradores",
     "titulo": "De la facultad al mundo profesional: experiencias reales para construir tu carrera"
@@ -110,5 +114,9 @@
   "TA233": {
     "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Taller de libre elección | Responsable(s)/Colaboradores",
     "titulo": "Pausa Consciente: El arte de desconectar a tiempo para rendir mejor el resto del día"
+  },
+  "TA234": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Taller de libre elección | Responsable(s)/Colaboradores",
+    "titulo": "Semana de la Extensión UNICEN 2026: Taller Iniciación a la Extensión para Estudiantes"
   }
 }
