@@ -31,6 +31,10 @@
     "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Apoyo a la extensión | Responsable(s)/Colaboradores",
     "titulo": "Experiencia en el Banco de Alimentos de Tandil"
   },
+  "AE29": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Apoyo a la extensión | Responsable(s)/Colaboradores",
+    "titulo": "PROFIN - Programa de fortalecimiento institucional - Escuelita de Emprendedorismo UNICEN"
+  },
   "CO255": {
     "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Asistencia a congresos, jornadas, etc. | Responsable(s)/Colaboradores",
     "titulo": "De la facultad al mundo profesional: experiencias reales para construir tu carrera"
@@ -150,5 +154,9 @@
   "TA235": {
     "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Taller de libre elección | Responsable(s)/Colaboradores",
     "titulo": "Organización de eventos deportivos"
+  },
+  "TA236": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Taller de libre elección | Responsable(s)/Colaboradores",
+    "titulo": "Gestión y documentación de procesos en el Banco de Alimentos Tandil"
   }
 }
