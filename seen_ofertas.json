@@ -211,6 +211,10 @@
     "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Otros desarrollos personales compatibles | Responsable(s)/Colaboradores",
     "titulo": "Spotify - Análisis del modelo de negocio y su evolución basada en la Serie Playlist de Netflix."
   },
+  "OD129": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Otros desarrollos personales compatibles | Responsable(s)/Colaboradores",
+    "titulo": "Jurado Alumno para las Concursos Docentes"
+  },
   "TA232": {
     "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Taller de libre elección | Responsable(s)/Colaboradores",
     "titulo": "Problemas Filosóficos"
@@ -230,5 +234,9 @@
   "TA236": {
     "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Taller de libre elección | Responsable(s)/Colaboradores",
     "titulo": "Gestión y documentación de procesos en el Banco de Alimentos Tandil"
+  },
+  "TA237": {
+    "detalle": "Oferta ALE | Plan de estudios | 50° | Modalidad Ale | Taller de libre elección | Responsable(s)/Colaboradores",
+    "titulo": "TA237-Proyecto: Estacionamiento Banco de Alimentos Tandil"
   }
 }
